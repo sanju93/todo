@@ -1,37 +1,12 @@
-# Getting Started with Create React App
+# Project Name : ToDo List in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -61,9 +36,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+#prequisite
+1. install npm
+2. install react
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# How to start the project
+1.git clone `https://github.com/sanju93/todo.git`
+2.npm i
+3.npm start
+
+#GUI of the project
+
+1.Enter the task in todo input box
+<img width="960" alt="2023-06-24" src="https://github.com/sanju93/todo/assets/104681023/490ff041-a4b7-46cb-8db1-c9ffdc503ea4">
+2.Add the todo by clicking on `plus` toggle
+<img width="960" alt="2023-06-24 (1)" src="https://github.com/sanju93/todo/assets/104681023/14280f97-6e59-440c-b00a-0eb02698c500">
+3.you can complete our task by checking checkbox
+<img width="960" alt="2023-06-24 (2)" src="https://github.com/sanju93/todo/assets/104681023/e6b2c0d1-af7d-4574-b473-a191d91931a3">
+4. deleting the todo by clicking on delete box
+<img width="960" alt="2023-06-24 (3)" src="https://github.com/sanju93/todo/assets/104681023/091e9384-981f-4d0f-90da-01803c159702">
+
+
+
+### Deployment
+this project has been deployed on netlify here is the link `https://todoapp093.netlify.app/`
 
 ### `npm run build` fails to minify
 
